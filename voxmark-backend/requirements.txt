@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+requests
+# Core TTS dependencies
+styletts2
+# Explicit dependencies often needed
+scipy
+numpy
+torch
+torchaudio
+phonemizer
+librosa
+matplotlib
+nltk
+pip-system-certs

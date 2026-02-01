@@ -1,0 +1,31 @@
+# Models
+models/
+voxmark-backend/models/
+voxmark-frontend/src-tauri/target/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test outputs
+test_audio.wav
+
+# Logs
+*.log
